@@ -12,7 +12,11 @@ body {
   position: absolute;
    background-image: url('img/te3yhEX17CA.jpg');
    width: 600px;
+   left: 250px;
+
 }  
+
+
 
 .p {
  position: absolute;
@@ -154,3 +158,4 @@ body {
 @media only screen and (max-width: 767px) {
     /* Ваши стили для мобильных устройств здесь */
 }
+
